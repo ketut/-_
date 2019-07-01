@@ -26,5 +26,5 @@ then mplayer -afm ffmpeg ttp://streaming.rri.co.id:9240/web-rrisingarajapro1.mp3
 elif [ $1 == 'dps' ]
 then mplayer -afm ffmpeg http://streaming.rri.co.id:9021/web-rridenpasarpro1.mp3 
 else
-    echo "pilihan: pro3, jazz, chan5, classic, id, keroncong, voi, sgr, dps "
+    echo "pilihan: pro3, jazz, chan5, classic, id, keroncong, voi, sgr, dps, Thank you... "
 
